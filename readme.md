@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I develop video games in Unity and Godot /side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at Rosnierjm@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](null) for more details about me. I'm open to feedback and suggestions!
+<!--📄 &nbsp;Please have a look at my [Résumé](null) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -29,6 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Unity(https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
