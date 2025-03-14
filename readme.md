@@ -52,5 +52,5 @@
 </p>
 
 -----
-Credits for Readme-Desing: [Aditya Vikram Singh](https://github.com/AVS1508)
+
 
